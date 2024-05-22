@@ -31,5 +31,8 @@ Que contenha exercícios de leitura,escrita, letras do alfabeto e números
 
 ## Contatos
 
-- GitHub: [![GitHub](https://img.shields.io/badge/GitHub-seu_usuario-black?style=flat-square&logo=github)](https://github.com/sanches-collab sanches-collab) 
-- LinkedIn: [![LinkedIn](https://img.shields.io/badge/LinkedIn-seu_nome-blue?style=flat-square&logo=linkedin)]( https://www.linkedin.com/in/denizesancheslopes?trk=contact-info Denize Sanches Lopes) 
+-  [![GitHub](https://img.shields.io/badge/GitHub-seu_usuario-black?style=flat-square&logo=github)](https://github.com/sanches-collab)
+
+-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-seu_nome-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/DenizeSanchesLopes)
+
+  
