@@ -1,5 +1,5 @@
 
-# ![Lupa Icon](https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Black_and_White_Glass_icon_Vector_version.svg/1200px-Black_and_White_Glass_icon_Vector_version.svg.png) Explorando o hebraico:O guia para iniciantes 
+# Explorando o hebraico:O guia para iniciantes 
 
 Este ebook,conta brevemente sobre a história de Israel,comidas,costumes,linguas faladas no país,e qual é a importância da tecnologia de Israel, porém o ebook é voltado para quem quer falar a língua hebraica.
 Neste ebook, coloquei links gratuitos para aprender esse idioma, hebraico moderno, que é falado hoje em dia.
@@ -7,7 +7,7 @@ Esse e-book foi gerado com AI,e revisado por mim,que também fiz questão de col
 
 ## Prompts Usados para Fazer o Ebook
 
-- ![Prompt Icon](https://img.icons8.com/ios/452/command-line.png) Prompt 1: Faça um texto para ebook com foco em aprender hebraico para iniciantes 
+- https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md#table-of-contents Prompt 1: Faça um texto para ebook com foco em aprender hebraico para iniciantes 
 Explique sempre de maneira simples 
 Deixe o texto enxuto
 Conte brevemente a cultura de Israel 
@@ -32,5 +32,5 @@ Que contenha exercícios de leitura,escrita, letras do alfabeto e números
 
 ## Contatos
 
-- GitHub: [![GitHub](https://img.shields.io/badge/GitHub-seu_usuario-black?style=flat-square&logo=github)](https://github.com/sanches-collab) sanches -collab
-- LinkedIn: [![LinkedIn](https://img.shields.io/badge/LinkedIn-seu_nome-blue?style=flat-square&logo=linkedin)]( https://www.linkedin.com/in/denizesancheslopes?trk=contact-info) Denize Sanches Lopes 
+- GitHub: [![GitHub](https://img.shields.io/badge/GitHub-seu_usuario-black?style=flat-square&logo=github)](https://github.com/sanches-collab) 
+- LinkedIn: [![LinkedIn](https://img.shields.io/badge/LinkedIn-seu_nome-blue?style=flat-square&logo=linkedin)]( https://www.linkedin.com/in/denizesancheslopes?trk=contact-info) 
